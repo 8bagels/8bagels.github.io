@@ -2,7 +2,7 @@
 layout: post
 title:  "Dice Prototypes"
 date:   2019-09-10 22:00:00 -0600
-background: 'https://cdn.shopify.com/s/files/1/1476/1216/t/7/assets/logo.svg'
+background: '/images/gmdice-logo.svg'
 categories: dice
 ---
 

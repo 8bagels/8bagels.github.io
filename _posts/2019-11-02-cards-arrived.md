@@ -2,7 +2,7 @@
 layout: post
 title:  "Cards Arrived"
 date:   2019-11-02 22:00:00 -0600
-background: 'https://i.etsystatic.com/21317447/r/il/6f8347/2118936217/il_fullxfull.2118936217_jtoy.jpg'
+background: '/images/Dice-204.jpg'
 categories: dice
 ---
 

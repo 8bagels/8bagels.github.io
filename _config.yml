@@ -41,9 +41,12 @@ navButtons:
 # Build settings
 #theme: minima
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+# https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
 
-# Build settings
 markdown:           kramdown
+# https://kramdown.gettalong.org/quickref.html
+# https://kramdown.gettalong.org/syntax.html
+
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
