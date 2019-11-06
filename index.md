@@ -5,3 +5,5 @@
 layout: home
 background: '/images/bagel-1434064.jpg'
 ---
+
+{% include redirect.html url="explorerspack" %}

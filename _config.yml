@@ -31,14 +31,15 @@ twitter_username: 8bagels
 github_username:  8bagels
 
 navButtons:
-  - label: About
-    href: /about
-  - label: Contact
-    href: /contact
-  - label: Posts
-    href: /posts
+  # - label: About
+  #   href: /about
+  # - label: Contact
+  #   href: /contact
   - label: Explorer's Pack
     href: /explorerspack
+  - label: Posts
+    href: /posts
+
 
 # Build settings
 #theme: minima
