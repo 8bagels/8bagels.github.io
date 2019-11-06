@@ -42,7 +42,7 @@ navButtons:
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Build settings
 markdown:           kramdown
