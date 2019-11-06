@@ -6,4 +6,7 @@ layout: home
 background: '/images/bagel-1434064.jpg'
 ---
 
-{% include redirect.html url="explorerspack" %}
+Hello, you are probably here for the [Explorer's Pack][ExplorersPack]. Take a look, I think you will enjoy it. 
+{: .alert .alert-primary role="alert"}
+
+[ExplorersPack]: /explorerspack

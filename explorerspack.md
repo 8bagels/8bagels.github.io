@@ -4,7 +4,7 @@
 
 layout: page
 title: Explorer's Pack
-description: This is the page description.
+description: 5e adventuring gear for beginners
 background: '/images/Dice-212.jpg'
 ---
 
