@@ -44,10 +44,11 @@ Please share your stories and feedback: <a href="https://twitter.com/intent/twee
 The Explorers Pack references many useful 5e rules. These rules are collected from the 5.1 Systems Reference Document (SRD). This SRD content is used lawfully under to the terms of the Open Game License (OGL). You can read the full OGL and SRD here: [Wizards of the Coast/DND/SRD-OGL V5.1 (pdf)][srdogl]
 
 ## Credits
-- [Game Master Dice][gmdice] for supplies and advice
 - [Erin Langford Photography][elphoto] for photography and patience
-- [Pixabay][pixabay] for additional "stock" type photos
 - [Wizards of the Coast][wotc] for the game of Dungeons and Dragons 5th Edition
+- [Game Master Dice][gmdice] for supplies and advice
+- The Geek Society (.gr) for the "Made for 5e" logo
+- [Pixabay][pixabay] for additional "stock" type photos
 - Korothas de-Relan, Eladithas Deryth, Escobar, Flox Noccin, Rifinas, Febo, Jeff Do'Urden, Malik Aidenson, Rotram Frostbeard, Thing, and Varrock (and of course the players that play these PCs). 
 
 
