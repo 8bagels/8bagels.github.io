@@ -50,6 +50,9 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-151728673-1 # out your google-analytics code
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
