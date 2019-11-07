@@ -29,8 +29,15 @@ The Explorers Pack can help new players to more easily jump into the game by hel
 
 Please share your stories and feedback: <a href="https://twitter.com/intent/tweet?screen_name=8bagels&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @8bagels</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Coming Soon**: sample character sheets, additional references, usage video, testimonials
+**Coming Soon**: sample character sheets, additional references, usage video
 {: .alert .alert-success role="alert"}
+
+A break down of the decision making process can be found on [this reddit post][redditdecisions].
+
+## Testimonials
+
+> Nice! I feel like this is a great tool for getting new players into the game quickly so that they can try a session out.
+[/u/Spideydawg][spideydawg]
 
 ## Card Downloads
 - [Card 1 Front][card1a]
@@ -87,4 +94,10 @@ The Explorers Pack references many useful 5e rules. These rules are collected fr
 {:target="_blank" rel="noopener"}
 
 [card3b]: /images/export/ExplorersPack-3b-trim.png
+{:target="_blank" rel="noopener"}
+
+[redditdecisions]: https://www.reddit.com/r/DnD/comments/dt1k2r/feedback_on_my_5e_dice_and_cards_for_beginners/
+{:target="_blank" rel="noopener"}
+
+[spideydawg]: https://np.reddit.com/r/DnD/comments/dt1k2r/feedback_on_my_5e_dice_and_cards_for_beginners/f6tln1b
 {:target="_blank" rel="noopener"}
