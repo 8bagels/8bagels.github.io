@@ -29,8 +29,10 @@ The Explorers Pack can help new players to more easily jump into the game by hel
 
 Please share your stories and feedback: <a href="https://twitter.com/intent/tweet?screen_name=8bagels&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @8bagels</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**Coming Soon**: sample character sheets, additional references, usage video
+**Coming Soon**: sample character sheets, additional references, usage video. See a sample of some of those resources in a [recent blog post](/dice/2019/11/15/building-pregens-video.html)
 {: .alert .alert-success role="alert"}
+
+
 
 A break down of the decision making process can be found on [this reddit post][redditdecisions].
 
