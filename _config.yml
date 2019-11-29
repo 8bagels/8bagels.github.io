@@ -35,6 +35,15 @@ navButtons:
   #   href: /contact
   - label: Explorer's Pack
     href: /explorerspack
+    subButtons:
+      - label: Info
+        id: info
+      - label: Directions
+        id: directions
+      - label: Resources
+        id: resources
+      - label: Buy
+        id: buy
   - label: Posts
     href: /posts
 

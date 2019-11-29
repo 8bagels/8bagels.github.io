@@ -12,11 +12,30 @@
             <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
           </li>
 
+          {% assign pageUrl = page.url | relative_url %}
           {% for navButt in site.navButtons %}
+            {% assign relUrl = navButt.href | relative_url %}
+          
 
-          <li class="nav-item">
-            <a class="nav-link" href="{{navButt.href | relative_url }}">{{navButt.label}}</a>
-          </li>
+            {% if pageUrl contains relUrl %}
+            <li class="nav-item active">
+            {% else %}
+            <li class="nav-item">
+            {% endif %}
+              <a class="nav-link" href="{{relUrl}}">{{navButt.label}}</a>
+            </li>
+            
+            {% if pageUrl contains relUrl %}
+
+            <ul class="navbar-nav">
+              {% for subButt in navButt.subButtons %}
+                <li class="nav-item">
+                  <a class="nav-link" href="#{{subButt.id}}"> - {{subButt.label}}</a>
+                </li>
+              {% endfor %}
+            </ul>
+
+            {% endif %}
 
           {% endfor %}
         
