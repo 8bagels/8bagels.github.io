@@ -52,6 +52,9 @@ Please share your stories and feedback: <a href="https://twitter.com/intent/twee
 - [Card 3 Front][card3a]
 - [Card 3 Back][card3b]
 
+### Source Download
+- [Scribus source file][source]
+
 ### Licensing
 The Explorers Pack references many useful 5e rules. These rules are collected from the 5.1 Systems Reference Document (SRD). This SRD content is used lawfully under to the terms of the Open Game License (OGL). You can read the full OGL and SRD here: [Wizards of the Coast/DND/SRD-OGL V5.1 (pdf)][srdogl]
 
@@ -108,4 +111,7 @@ The Explorers Pack can help new players to more easily jump into the game by hel
 {:target="_blank" rel="noopener"}
 
 [spideydawg]: https://np.reddit.com/r/DnD/comments/dt1k2r/feedback_on_my_5e_dice_and_cards_for_beginners/f6tln1b
+{:target="_blank" rel="noopener"}
+
+[source]: /files/ExplorersPack.sla
 {:target="_blank" rel="noopener"}
